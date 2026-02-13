@@ -67,17 +67,27 @@ I built the Prompt Coach because I know what makes me fail. When someone writes 
 
 ## Business Model
 
-| Tier | Price | What You Get |
-|---|---|---|
-| **Free** | $0 | Full wizard flow, market research, 3 name options |
-| **Pro** | $29/mo | Unlimited names, full brand kit, ASO, AI agent |
-| **Agency** | $99/mo | White-label, bulk app creation, team seats, priority support |
-| **Enterprise** | Custom | Custom agents, dedicated infrastructure, SLA |
+We don't charge subscriptions — we charge for outcomes. One-time payments, clear deliverables.
 
-**Revenue drivers:**
-- SaaS subscriptions (recurring)
-- Domain purchases through integrated registrar (transaction fee)
-- AI agent hosting for customers who want cloud-managed agents (usage-based)
+| Package | Price | What the Customer Gets |
+|---|---|---|
+| **Expert Build Opinion** | $99 | Market gap research, App Store competition analysis, honest viability assessment, revenue strategy, actionable recommendations |
+| **Fast Track** | $249 | Screenshot generation, ASO keyword optimization, App Store description + metadata, submission handling |
+| **App Resurrection** | $449 | AI diagnostics, bug fixes, code repair, full rebuild if needed, working export |
+| **Web to Native** | $899 | Native iOS build, native Android build, push notification readiness, source code export |
+| **AI + Marketing Bundle** | +$99 add-on | Custom-trained AI agent (ships in project folder), 30-day marketing plan, competitive monitoring |
+
+**Why one-time pricing works:**
+- Lower barrier to entry than subscriptions — founders don't commit to monthly bills they can't predict
+- Higher perceived value — "$99 for a complete market analysis" vs. "$29/month for... features?"
+- Our costs are near-zero (free-tier AI, 17 agents that don't sleep), so every sale is almost pure margin
+- The **AI + Marketing Bundle** is the hook — the customer's AI agent stays with them, which drives word-of-mouth and upsells
+
+**Revenue math at scale:**
+- Average order value (AOV): ~$300 (blended across packages)
+- AI cost per order: ~$0.50 (cached research, optimized prompts)
+- Gross margin per order: **99%+**
+- 100 orders/month = $30,000 revenue on ~$50 AI cost
 
 ---
 

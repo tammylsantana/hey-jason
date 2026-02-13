@@ -99,13 +99,15 @@ Markdown is:
 
 ## Revenue Streams
 
-| Stream | Type | Notes |
+One-time payments, not subscriptions. Clear deliverables, not feature tiers.
+
+| Package | Price | Margin |
 |---|---|---|
-| **Pro subscriptions** ($29/mo) | Recurring | Primary driver |
-| **Agency subscriptions** ($99/mo) | Recurring | White-label, team seats |
-| **Domain purchases** | Transaction fee | Integrated Cloudflare registrar |
-| **Agent hosting** | Usage-based | For customers who want cloud-managed agents |
-| **Enterprise** | Custom | Dedicated infra, SLA, custom agents |
+| **Expert Build Opinion** | $99 | ~99% (AI research costs ~$0.50) |
+| **Fast Track** | $249 | ~98% (screenshots + ASO) |
+| **App Resurrection** | $449 | ~95% (AI diagnostics + repair) |
+| **Web to Native** | $899 | ~90% (Expo build + native packaging) |
+| **AI + Marketing Bundle** | +$99 add-on | ~99% (agent training is cached) |
 
 ---
 
