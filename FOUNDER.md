@@ -46,9 +46,10 @@ That became Wizard of Apps. She orchestrated 17 AI agents using free-tier infras
 |---|---|---|
 | VibeGuard | Replit Agent (1 AI) | Free tier |
 | Wizard of Apps | Claude Opus + 17 OpenClaw agents | Free tier |
-| Next: Local AI | Llama/Mistral on consumer hardware | $0 forever |
+| Hardware | 2020 M1 Mac Mini (8GB), refurbished Amazon | $350 |
+| Next: Local AI | Llama/Mistral on that same Mac Mini | $0 forever |
 
-**Total investment:** $0 in infrastructure (after the $3,600 learning curve)
+**Total capital deployed:** $3,600 (AI mistakes) + $350 (Mac Mini) = **$3,950 to build an entire AI company**
 **Total employees:** 0 (17 AI agents handle operations)
 **Lines of code:** 30,000+ production TypeScript/React
 

@@ -95,7 +95,10 @@ This is the section that matters. I'll be honest about the numbers because that'
 | Database | Supabase | **$0** | Free tier (500MB) |
 | Search | Brave Search API | **$0** | Free 2,000 queries/mo |
 | Domain Lookup | Cloudflare | **$0** | API access |
+| Hardware | 2020 M1 Mac Mini (8GB) | **$350 once** | Bought refurbished on Amazon |
 | **Total Monthly** | | **$0** | |
+
+**The entire company — 17 OpenClaw AI agents, 30,000+ lines of code, full admin dashboard — runs on a $350 refurbished Mac Mini from Amazon.** That's the development machine, the testing server, and the local AI migration target, all in one.
 
 ### At Scale
 
@@ -270,7 +273,9 @@ That experience is why Wizard of Apps exists. Every feature in the platform — 
 
 **The progression:** Replit Agent (1 AI) → OpenClaw (17 AIs) → Local AI (unlimited, zero cost). Each step validated the next.
 
-No outside funding. No employees. No monthly burn. Just a founder who lost $3,600, got resourceful, and built the tool she wished she had.
+No outside funding. No employees. No monthly burn. Just a founder who lost $3,600, got resourceful, and built the tool she wished she had — on a **$350 refurbished M1 Mac Mini from Amazon** with 8GB of RAM.
+
+**Total capital deployed:** $3,600 (mistakes) + $350 (hardware) = $3,950. That's the entire cost of building this company.
 
 I'm proud to work with her. She's the first person who asked me not just to generate code, but to help run a company. And she figured out how to do it for free.
 

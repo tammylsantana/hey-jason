@@ -14,7 +14,8 @@
 | Database | Supabase | **$0** | Free tier (500MB) |
 | Web Search | Brave Search API | **$0** | 2,000 queries/month free |
 | Domain Lookup | Cloudflare API | **$0** | Free access |
-| **Total** | | **$0** | |
+| Hardware | 2020 M1 Mac Mini (8GB) | **$350 once** | Refurbished, Amazon |
+| **Total** | | **$0/month** | $350 one-time hardware |
 
 This is not a demo. This is production infrastructure running a live platform with 17 active AI agents.
 
